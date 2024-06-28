@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.norberto.projeto_smart_tv.Usuario",
+            "projectName": "meu primeiro projeto Java-test pela DIO_cb9ac9fb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
